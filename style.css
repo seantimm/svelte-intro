@@ -1,0 +1,18 @@
+body {
+  font-family: "Archer", sans-serif;
+  font-size: 26px;
+  color: white;
+  background-color: #222222;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: white;
+}
