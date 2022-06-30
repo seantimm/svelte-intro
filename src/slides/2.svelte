@@ -12,13 +12,6 @@
 </dl>
 
 <style>
-  body {
-    font-family: "Archer", sans-serif;
-    font-size: 26px;
-    color: white;
-    background-color: #222222;
-  }
-
   h1 {
     text-align: center;
   }
